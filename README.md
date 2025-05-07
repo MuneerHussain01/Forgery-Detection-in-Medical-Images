@@ -6,19 +6,31 @@ Forgery Detection using deep learning
 Dataset:
 
 COVID-19 Digital X-rays Forgery Dataset
+
 CM - Copy Move Forgery Technique
+
 S - Splicing Forgery Technique
+
 This dataset consist of 4 classes and they are
 {
 COVID-19 2000 images
+
 CM COVID-19 2000 images
+
 S COVID-19 2000 images
+
 Viral Pneumonia 1340 images
+
 CM Viral Pneumonia 1340 images
+
 S Viral Pneumonia 850 images
+
 Normal 2000 images
+
 CM Normal 2000 images
+
 S Normal 2000 images
+
 }
 
 Link: https://www.kaggle.com/datasets/nourmahmoud/covid19-digital-xrays-forgery-dataset/data
