@@ -2,7 +2,9 @@
 
 
 Forgery Detection using deep learning
+
 Dataset:
+
 COVID-19 Digital X-rays Forgery Dataset
 CM - Copy Move Forgery Technique
 S - Splicing Forgery Technique
@@ -18,7 +20,10 @@ Normal 2000 images
 CM Normal 2000 images
 S Normal 2000 images
 }
+
 Link: https://www.kaggle.com/datasets/nourmahmoud/covid19-digital-xrays-forgery-dataset/data
+
+
 Model Architecture :
 The CNN model consisted of the following fully-connected dense layers:
 1. The input layer having 300 neurons
@@ -26,7 +31,8 @@ The CNN model consisted of the following fully-connected dense layers:
 3. Hidden 2 layer having 75 neurons
 4. Hidden 3 layer having 50 neurons
 5. Hidden 4 layer having 25 neurons
-6. Output layer with 4 neurons 
+6. Output layer with 4 neurons
+   
 The first five layers used “ReLU” activation function, and the output layer used “softmax” activation 
 function
 
